@@ -1,5 +1,8 @@
 # TEST
 
+### Reference
+* https://youtube.com/playlist?list=PLU9-uwewPMe3KKFMiIm41D5Nzx_fx2PUJ
+
 ### Ubuntu 서버 명령어
 * 현재 경로 상세 출력: ls -al
 * 경로 이동: cd 경로
