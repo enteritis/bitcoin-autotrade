@@ -4,12 +4,13 @@
 * https://youtube.com/playlist?list=PLU9-uwewPMe3KKFMiIm41D5Nzx_fx2PUJ
 
 ### Ubuntu 서버 명령어
-* 깃허브 코드 가져오기: git clone directory
+* 깃허브 코드 가져오기: git clone https://github.com/enteritis/bitcoin-autotrade.git
 * 현재 경로 상세 출력: ls -al
-* 경로 이동: cd 경로
+* 경로 이동: cd bitcoin-autotrade
 * vim 에디터로 파일 열기: vim BitcoinAutoTradeWithSlack.py
 * vim 에디터 입력: i
-* vim 에디터 저장: :wq!
+* vim 에디터 저장 후 닫기: :wq!
+* vim 에디터 닫기: :q!
 * 패키지 목록 업데이트: sudo apt update
 * pip3 설치: sudo apt install python3-pip
 * pip3로 pyupbit 설치: pip3 install pyupbit
