@@ -7,7 +7,7 @@
 * 깃허브 코드 가져오기: git clone (address)
 * 현재 경로 상세 출력: ls -al
 * 경로 이동: cd 경로
-* vim 에디터로 파일 열기: vim bitcoinAutoTrade.py
+* vim 에디터로 파일 열기: vim BitcoinAutoTradeWithSlack.py
 * vim 에디터 입력: i
 * vim 에디터 저장: :wq!
 * 패키지 목록 업데이트: sudo apt update
