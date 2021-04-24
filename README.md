@@ -1,4 +1,4 @@
-# TEST
+# 비트코인 자동화 투자
 
 ### Reference
 * https://youtube.com/playlist?list=PLU9-uwewPMe3KKFMiIm41D5Nzx_fx2PUJ
