@@ -11,7 +11,7 @@
 * vim 에디터 입력: i
 * vim 에디터 저장 후 닫기: :wq!
 * vim 에디터 닫기: :q!
-* ubuntu 서버 한국 시간으로 설정: sudo ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
+* ubuntu 서버 한국 시간으로 설정: sudo ln -sf /usr/share/zoneinfo/Asia/Seoul/etc/localtime
 * 패키지 목록 업데이트: sudo apt update
 * pip3 설치: sudo apt install python3-pip
 * pip3로 pyupbit 설치: pip3 install pyupbit
