@@ -7,7 +7,7 @@
 * 깃허브 코드 가져오기: git clone https://github.com/enteritis/bitcoin-autotrade.git
 * 현재 경로 상세 출력: ls -al
 * 경로 이동: cd bitcoin-autotrade
-* vim 에디터로 파일 열기: vim BitcoinAutoTradeWithSlack.py
+* vim 에디터로 파일 열기: vim BitcoinAutoTrade.py
 * vim 에디터 입력: i
 * vim 에디터 저장 후 닫기: :wq!
 * vim 에디터 닫기: :q!
